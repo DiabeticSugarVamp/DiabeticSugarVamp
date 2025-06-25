@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hey there, I’m **Israel!**!
+> “Coding with paws and passion 🐾💻”
+<img src="https://github.com/user-attachments/assets/d40b2976-f2c7-48fc-8e88-f9dc854d17a5" width="600">
 
-<!--
-**DiabeticSugarVamp/DiabeticSugarVamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎓 About Me ₍^. .^₎⟆
+- 🐾 3rd-Year Computer Science student at the University of Makati  
+- 🌐 Currently diving into **Web Development** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ Fun Facts
+- 💕 Always up for a good cuddle or two while studying! (˶˃ ᵕ ˂˶) .ᐟ.ᐟ   
+- 📚 Web serial enthusiast ૮ ˶ᵔ ᵕ ᵔ˶ ა 
+- 🎵 Jamming to everything from busy cafe ambiance to yandere kidnapping ASMR while I code
+
+---
+
+## 📫 Let’s Connect!
+- 📧 Email: israel.rodriguez.dev@gmail.com
+
+---
+
+> “Every line of code is a new paw-step on my dev journey!”
+
+## Credits:
+- Juno Image: My Furry Protogen
