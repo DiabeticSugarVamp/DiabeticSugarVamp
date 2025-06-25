@@ -1,6 +1,6 @@
 ## 👋 Hey there, I’m **Israel!**!
 > “Coding with paws and passion 🐾💻”
-<img src="https://github.com/user-attachments/assets/d40b2976-f2c7-48fc-8e88-f9dc854d17a5" width="600">
+<img src="https://github.com/user-attachments/assets/d40b2976-f2c7-48fc-8e88-f9dc854d17a5" width="300">
 
 ---
 
